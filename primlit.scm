@@ -48,7 +48,7 @@
 ;   ; Text continues here...
 ;
 ; For another example, view the `source code for this document
-; <http://www.codingrobots.org/primlit/primlit.scm.txt>`_.
+; <http://dchest.github.io/primlit/primlit.scm.txt>`_.
 ;
 ; Usage
 ; -----
@@ -180,5 +180,5 @@
 
 ; That's it! 
 ;
-; `Download source code <http://www.codingrobots.org/primlit/primlit.scm>`_
+; `Download source code <http://dchest.github.io/primlit/primlit.scm>`_
 ; and run it with `Guile <http://www.gnu.org/software/guile/>`_.
